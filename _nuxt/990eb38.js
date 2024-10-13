@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{601:function(n,t,o){"use strict";o.r(t);var c={name:"IconClipboardCopy",data:function(){return{}}},r=o(23),component=Object(r.a)(c,(function(){return(0,this._self._c)("div",{attrs:{id:"clipboard-copy"}})}),[],!1,null,null,null);t.default=component.exports}}]);
