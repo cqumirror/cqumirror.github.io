@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/lanke/Index.jsx"],"names":["Index"],"mappings":"8GAAA,mEAGe,SAASA,IACtB,OAAO","file":"static/js/9.910d4b73.chunk.js","sourcesContent":["// 风采\nimport React from \"react\";\n\nexport default function Index() {\n  return <p>蓝客</p>;\n}\n"],"sourceRoot":""}
