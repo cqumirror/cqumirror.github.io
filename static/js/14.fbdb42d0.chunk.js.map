@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/wechat/Index.jsx"],"names":["Index"],"mappings":"+GAAA,mEAGe,SAASA,IACtB,OAAO","file":"static/js/14.fbdb42d0.chunk.js","sourcesContent":["// 公众号\nimport React from \"react\";\n\nexport default function Index() {\n  return <p>公众号</p>;\n}\n"],"sourceRoot":""}

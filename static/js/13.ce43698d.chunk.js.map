@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/suggest/Index.jsx"],"names":["Index"],"mappings":"+GAAA,mEAGe,SAASA,IACtB,OAAO","file":"static/js/13.ce43698d.chunk.js","sourcesContent":["// 建议意见\nimport React from \"react\";\n\nexport default function Index() {\n  return <p>建议</p>;\n}\n"],"sourceRoot":""}

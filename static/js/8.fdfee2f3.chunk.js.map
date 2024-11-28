@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/check/Index.jsx"],"names":["Index"],"mappings":"8GAAA,mEAGe,SAASA,IACtB,OAAO","file":"static/js/8.fdfee2f3.chunk.js","sourcesContent":["// 状态查询\nimport React from \"react\";\n\nexport default function Index() {\n  return <p>状态查询</p>;\n}\n"],"sourceRoot":""}
